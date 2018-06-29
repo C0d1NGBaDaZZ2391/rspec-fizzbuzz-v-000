@@ -9,7 +9,7 @@ def fizzbuzz(int)
 end
 
 fizzbuzz(3)
-fizzbuzz(5)
+fizzbuzz(10)
 fizzbuzz(45)
 fizzbuzz(4)
 # Don't forget! This file needs to be 'required' in its spec file
