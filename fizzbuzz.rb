@@ -5,7 +5,6 @@ def fizzbuzz(int)
     return "Buzz"
   elsif if i % 5 == 0 and i % 3 == 0
     return "FizzBuzz"
-  end
 end
 
 fizzbuzz(3)
